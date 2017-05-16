@@ -8,6 +8,7 @@ namespace GitMonitoraat_TeamLeader
 {
     class Program
     {
+        int getal = 3;
         static void Main(string[] args)
         {
             Console.WriteLine("Opdracht!");
