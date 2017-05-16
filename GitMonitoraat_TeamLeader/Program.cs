@@ -12,7 +12,7 @@ namespace GitMonitoraat_TeamLeader
         static void Main(string[] args)
         {
             Console.WriteLine("Opdracht!");
-            Console.WriteLine("Oplossing!!");
+            Console.WriteLine("Nieuwe Oplossing!!");
         }
     }
 }
